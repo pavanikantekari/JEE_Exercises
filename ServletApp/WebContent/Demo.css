@@ -1,0 +1,15 @@
+div {
+	color:red;
+	background-color : silver;
+	padding:20px;
+	text-align:center;
+}
+p {
+	color:red;
+	font-size:40px;
+	
+}
+body {
+	background-image:url(",/images/google.JPEG");
+	background-repeate:no;
+}
